@@ -36,13 +36,8 @@ Uses Llama3:8b to validate the retrieved context and ensure alignment between th
 Uses Qwen3:8b to generate the final answer based on the validated context provided by the Validator Agent.
 
 🚀 Key Features
-
-🏠 Runs entirely on local environment (no external API calls)
-
-🧩 Multi-agent reasoning powered by AutoGen
-
-📚 Context-aware retrieval using ChromaDB and Nomic embeddings
-
-💬 Interactive UI built with Streamlit
-
-🔒 Privacy-first architecture — no data leaves your machine
+* Runs entirely on local environment (no external API calls)
+* Privacy-first architecture — no data leaves your machine
+* Multi-agent reasoning powered by AutoGen
+* Context-aware retrieval using ChromaDB and Nomic embeddings
+* Interactive UI built with Streamlit
