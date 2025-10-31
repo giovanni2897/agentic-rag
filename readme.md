@@ -1,5 +1,7 @@
 🧠 Agentic RAG System
 
+![image_alt](https://github.com/giovanni2897/agentic-rag/blob/22ab6c4be3364f1d5d6cb2b213c8e85b377917f8/pics/UI_streamlit.png?raw=true)
+
 This repository implements an Agentic Retrieval-Augmented Generation (RAG) system designed to run fully locally using Ollama. The system combines multi-agent collaboration, local embeddings, and vector-based retrieval to produce accurate and validated answers.
 
 ⚙️ Overview
